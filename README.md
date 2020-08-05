@@ -1,6 +1,8 @@
 machine_learning_examples
 =========================
 
+This is a forked repository from lazyprogrammer and it shows some interesting projects regarding Deap Learning, Artificial Intelligence and some advanced Python skills.
+
 A collection of machine learning examples and tutorials.
 
 Find associated tutorials at https://lazyprogrammer.me
